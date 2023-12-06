@@ -29,7 +29,7 @@ export interface MenuItemProps extends MenuListItemProps {
    */
   children?: MenuItemProps[];
   /**
-   * Pass a class name to the menu item.
+   * Plass a class name to the menu item.
    */
   className?: string;
   /**
